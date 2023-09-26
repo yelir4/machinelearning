@@ -24,3 +24,28 @@ lab 6: use ensemble methods such as decision tree and random forest to analyze d
 data points are divided into train and test, and the quality of our classifiers is analyzed by running them on the test entries
 we also practice with an ensemble of ensembles which can help combine multiple ensembles with a majority voting system
 in order to achieve even better results
+
+lab 7: practice with k-means algorithm to solve clustering problems within data
+practice with graphing data and visually intuiting where the clusters may be and compare this with the performance of the clustering algorithms
+practice with different techniques such as bisecting k-means and tuning hyperparameters to achieve more accurate results
+
+lab 8: use k-nearest neighbors as a clustering method as well as implementing other libraries and tuning hyperparameters
+more practice with pre-processing and cleaning up data before performing on it
+
+lab 9: practice with association analysis and finding similarities within quantitative or qualitative data
+practice with generating frequent itemsets and using these as intermediate analysis tools
+practice with ECLAT and fpgrowth libraries and compare their association analysis processes
+
+lab 10: practice with neural networks to predict numbers based on handwriting
+makes use of various processes such as mini-batch gradient descent and optimizer steps,
+using loss and other criteria to determine accuracy
+
+pr1: use nearest neighbor as a classifier on data to assign classes to short text
+evaluate results using f1-scoring metric
+practice with using file readers/writers in python and discerning meaningful results in the output
+
+pr2: practice with various regression models to determine the greatest performing regression model on given dataset
+data is imbalanced so start with some form of dimensionality reduction
+
+pr3: practice with using clustering techniques to form classes within a dataset
+use hyperparamters to optimize the clustering algorithm
